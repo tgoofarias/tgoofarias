@@ -1,4 +1,4 @@
-### Hi there! I'm Tiago 👋
+### Hi everybody! I'm Tiago 👋
 
 - ⚡ I'm currently graduating in Information's Systems for Amazon State University
 - 🔭 I’m currently working on Search and Development project in college  
