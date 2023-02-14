@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Tiago 👋
+
+- ⚡ I'm currently graduating in Information's Systems for Amazon State University
+- 🔭 I’m currently working on Search and Development project in college  
+- 🌱 I’m currently learning Back-End with Django and Express building simple APIs, come check my newer [todo-list-django](https://github.com/tgoofarias/todo-list-django) repository!
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiagofariasbarbosa/)
+
 
 <!--
 **tgoofarias/tgoofarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
