@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning Back-End with Django and Express building simple APIs, come check my newer [todo-list-django](https://github.com/tgoofarias/todo-list-django) repository!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiagofariasbarbosa/)
 
+## Estou estudando
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
 <!--
 **tgoofarias/tgoofarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
