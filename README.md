@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Back-End with Django and Django REST Framework APIs, come check my newer [todo-list-django](https://github.com/tgoofarias/todo-list-django) and [movies-api](https://github.com/tgoofarias/watchmate-api-drf) repositories!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiagofariasbarbosa/)
 
-## Estou estudando
+## Currently Studying
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
           
           
