@@ -2,7 +2,7 @@
 
 - ⚡ I'm currently graduating in Information's Systems for Amazon State University
 - 🔭 I’m currently working on Search and Development project in college  
-- 🌱 I’m currently learning Back-End with Django and Express building simple APIs, come check my newer [todo-list-django](https://github.com/tgoofarias/todo-list-django) repository!
+- 🌱 I’m currently learning Back-End with Django and Django REST Framework APIs, come check my newer [todo-list-django](https://github.com/tgoofarias/todo-list-django) and [movies-api](https://github.com/tgoofarias/watchmate-api-drf) repositories!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tiagofariasbarbosa/)
 
 ## Estou estudando
@@ -10,8 +10,6 @@
           
           
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgoofarias&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
 
 <!--
 **tgoofarias/tgoofarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
